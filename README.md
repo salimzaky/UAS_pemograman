@@ -10,10 +10,8 @@ link youtube :
 ```
 
 
-```
-### PDF [Tutorbosku](https://github.com/salimzaky/UAS_pemograman/blob/master/assets/Tutorbosku.pdf)
+PDF [Tutorbosku](https://github.com/salimzaky/UAS_pemograman/blob/master/assets/Tutorbosku.pdf)
 
-```
 
 ![soal](./assets/15%20Project%20UAS_pages-to-jpg-0002.jpg)
 
