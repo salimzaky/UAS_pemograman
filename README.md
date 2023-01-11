@@ -11,7 +11,7 @@ link youtube :
 
 
 ```
-PDF : ![Tutorbosku.pdf](assets/Tutorbosku.pdf)
+PDF : [Tutorbosku](assets/Tutorbosku.pdf)
 
 ```
 
