@@ -11,7 +11,7 @@ link youtube :
 
 
 ```
-PDF : [Tutorbosku](https://github.com/salimzaky/UAS_pemograman/blob/master/assets/Tutorbosku.pdf)
+### PDF [Tutorbosku](https://github.com/salimzaky/UAS_pemograman/blob/master/assets/Tutorbosku.pdf)
 
 ```
 
