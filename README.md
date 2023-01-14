@@ -4,7 +4,7 @@
 
 <br>
 
-link [YouTube](https://youtube.com/salimzaky/UAS_pemrograman/blob/master/assets/https://youtu.be/4w2OJXKMHoE)
+link [YouTube](https://youtube.com/https://youtu.be/4w2OJXKMHoE)
 
 
 
