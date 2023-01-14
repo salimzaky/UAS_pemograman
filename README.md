@@ -4,7 +4,7 @@
 
 <br>
 
-link youtube [YouTube](https://github.com/salimzaky/UAS_pemrograman/blob/master/assets/https://youtu.be/4w2OJXKMHoE)
+link [YouTube](https://github.com/salimzaky/UAS_pemrograman/blob/master/assets/https://youtu.be/4w2OJXKMHoE)
 
 
 
